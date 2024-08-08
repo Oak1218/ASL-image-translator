@@ -6,7 +6,7 @@ which letter you are showing based on the dataset it has been given.
 
 ## The Algorithm
 The algorith for this AI uses the Nvidia Jetson Nano and the Google's trained AI image recognition to identify what letter you are showing in American Sign Language.
-Once you have connected your Jetson Nano and opened VS code you can upload your dataset to VS code. After running the code to train your model using ImageNet. After training the AI you export it to the using Resnet-18 so that it can be used with a seperate image and test what letter it is. 
+Once you have connected your Jetson Nano and opened VS code you can upload your dataset to VS code. After running the code to train your model using ImageNet. After training the AI you export it to the using Resnet-18 so that it can be used with a seperate image and test what letter it is. This specific model can only be used to identify the letters A, E, O, R, S, T.
 
 
 ## Running this project

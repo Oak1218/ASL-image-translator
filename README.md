@@ -2,7 +2,9 @@
 This is an AI that has been trained with images of six American Sign Language letters, A, E, O, R, S, and T. The AI uses DetectNet to identify
 which letter you are showing based on the dataset it has been given.
 
+![r_hand1](https://github.com/user-attachments/assets/65bc4c85-c36d-46c8-bbf5-6b65a796b032)
 
+![ohand](https://github.com/user-attachments/assets/92da30a7-dfa4-436d-8b91-0a9152552238)
 
 ## The Algorithm
 The algorith for this AI uses the Nvidia Jetson Nano and the Google's trained AI image recognition to identify what letter you are showing in American Sign Language.

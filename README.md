@@ -25,4 +25,5 @@ Once you have connected your Jetson Nano and opened VS code you can upload your 
 10. Run the command 'imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/[name of classification]/[image link] [Output name]'
 11. Find the image with the same output name you typed and see what it is classified as.
 
-[View a video explanation here](video link)
+
+https://youtu.be/OuXK7dcz1Wg
